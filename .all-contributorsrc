@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "m0lese",
+      "name": "Molese",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86180257?v=4",
+      "profile": "https://molese.me",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Get-An-Invite",
+  "projectOwner": "App-Choreography",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
