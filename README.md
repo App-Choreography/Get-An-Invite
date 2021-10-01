@@ -25,5 +25,5 @@
 
 | Name | What Computing Language Are You The Best At? | 
 | ---- | -------------------------------------------- |
-| `[Github Name](Link_to_Profile)` | `HTML`           |
-|      |                           |                  |
+| `[Github Name](Link_to_Profile)`    | `HTML`        |
+| [Molese](https://github.com/m0lese) | Rust          |
