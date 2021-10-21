@@ -30,6 +30,7 @@
 | ---- | -------------------------------------------- |
 | `[Github Name](Link_to_Profile)`    | `HTML`        |
 | [Molese](https://github.com/m0lese) | Rust          |
+| [Rohit Tewari](https://github.com/rtewari056) | JavaScript          |
 
 ## Contributors ✨
 
