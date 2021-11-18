@@ -32,7 +32,8 @@
 | ---- | -------------------------------------------- |
 | `[Github Name](Link_to_Profile)`    | `HTML`        |
 | [Molese](https://github.com/m0lese) | Rust          |
-| [Rohit Tewari](https://github.com/rtewari056) | JavaScript          |
+| [Rohit Tewari](https://github.com/rtewari056) | JavaScript |
+| [Tran Nguyen Thuong Truong](https://github.com/thuongtruong1009) | Java, HTML, CSS, JS |
 
 ## Contributors ✨
 
