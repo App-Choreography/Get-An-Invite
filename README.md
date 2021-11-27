@@ -8,8 +8,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 
 ## Follow these steps:
-
-<h3>
   
 - [x] Star this repositary, so you don't lose it! 😅
 - [x] Fork this repo, to add your changes! 📝
@@ -17,8 +15,6 @@
 - [x] Go to issues, and use our ready made template, asking to join the org!
 - [x] Fill out the issue. 
 - [x] Go back to your PR, and put the number, which your issue is at.
-
-</h3>
 
 # Now, just wait!
 
