@@ -10,6 +10,14 @@ assignees: CodingSpecies
 
 ## Name: 
 
-## Info About the Pull Request You Made: 
+Your name here...
 
-> You can put the number of your pull request, but putting `#` with the number your pull request is at.
+## Why do you want to join this organization?
+
+Explain here...
+
+## Pull request with your contribution
+
+Replace this with a link to the pull-request with your contributions.
+
+If you have not created a pull-request yet, please follow [these instructions](https://github.com/App-Choreography/Get-An-Invite#readme) first.
