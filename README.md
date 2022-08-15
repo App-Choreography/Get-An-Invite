@@ -42,7 +42,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://molese.me"><img src="https://avatars.githubusercontent.com/u/86180257?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Molese</b></sub></a><br /><a href="#content-m0lese" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/rtewari056"><img src="https://avatars.githubusercontent.com/u/75976169?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rohit Tewari</b></sub></a><br /><a href="#content-rtewari056" title="Content">🖋</a></td>
     <td align="center"><a href="https://thuongtruonginc.wixsite.com/portfolio"><img src="https://avatars.githubusercontent.com/u/71834167?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tran Nguyen Thuong Truong</b></sub></a><br /><a href="#content-thuongtruong1009" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/d-coder111"><img src="https://avatars.githubusercontent.com/u/82580017?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Divya</b></sub></a><br /><a href="#content-d-coder111" title="Content">🖋</a></td>
