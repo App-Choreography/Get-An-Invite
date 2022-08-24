@@ -31,6 +31,7 @@
 | [Rohit Tewari](https://github.com/rtewari056) | JavaScript |
 | [Tran Nguyen Thuong Truong](https://github.com/thuongtruong1009) | Java, HTML, CSS, JS |
 | [Divya](https://github.com/d-coder111) | Python,Java |
+| [phuocantd](https://github.com/phuocantd) | Javascript |
 
 
 ## Contributors ✨
@@ -45,6 +46,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/rtewari056"><img src="https://avatars.githubusercontent.com/u/75976169?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rohit Tewari</b></sub></a><br /><a href="#content-rtewari056" title="Content">🖋</a></td>
     <td align="center"><a href="https://thuongtruonginc.wixsite.com/portfolio"><img src="https://avatars.githubusercontent.com/u/71834167?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tran Nguyen Thuong Truong</b></sub></a><br /><a href="#content-thuongtruong1009" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/d-coder111"><img src="https://avatars.githubusercontent.com/u/82580017?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Divya</b></sub></a><br /><a href="#content-d-coder111" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/phuocantd"><img src="https://avatars.githubusercontent.com/u/31690470?v=4?s=100" width="100px;" alt=""/><br /><sub><b>phuocantd</b></sub></a><br /><a href="#content-phuocantd" title="Content">🖋</a></td>
   </tr>
 </table>
 
