@@ -31,6 +31,16 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "vedantmgoyal2009",
+      "name": "Vedant",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83997633?v=4",
+      "profile": "https://bittu.eu.org",
+      "contributions": [
+        "doc",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -38,5 +48,6 @@
   "projectOwner": "App-Choreography",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "angular"
 }
