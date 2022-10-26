@@ -41,6 +41,15 @@
         "doc",
         "content"
       ]
+    },
+    {
+      "login": "d-coder111",
+      "name": "d-coder111",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82580017?v=4",
+      "profile": "https://github.com/d-coder111",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
