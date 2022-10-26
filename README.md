@@ -27,6 +27,7 @@
 | Name | What Computing Language Are You The Best At? | 
 | ---- | -------------------------------------------- |
 | `[Github Name](Link_to_Profile)`    | `HTML`        |
+| [vedantmgoyal2009](https://github.com/vedantmgoyal2009) | Java, PowerShell, NodeJS |
 | [Molese](https://github.com/m0lese) | Rust          |
 | [Rohit Tewari](https://github.com/rtewari056) | JavaScript |
 | [Tran Nguyen Thuong Truong](https://github.com/thuongtruong1009) | Java, HTML, CSS, JS |
