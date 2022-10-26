@@ -2,7 +2,7 @@
 
 # Want to join our organisation?
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
@@ -48,6 +48,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/rtewari056"><img src="https://avatars.githubusercontent.com/u/75976169?v=4?s=100" width="100px;" alt="Rohit Tewari"/><br /><sub><b>Rohit Tewari</b></sub></a><br /><a href="#content-rtewari056" title="Content">🖋</a></td>
       <td align="center"><a href="https://thuongtruonginc.wixsite.com/portfolio"><img src="https://avatars.githubusercontent.com/u/71834167?v=4?s=100" width="100px;" alt="Tran Nguyen Thuong Truong"/><br /><sub><b>Tran Nguyen Thuong Truong</b></sub></a><br /><a href="#content-thuongtruong1009" title="Content">🖋</a></td>
       <td align="center"><a href="https://bittu.eu.org"><img src="https://avatars.githubusercontent.com/u/83997633?v=4?s=100" width="100px;" alt="Vedant"/><br /><sub><b>Vedant</b></sub></a><br /><a href="https://github.com/App-Choreography/Get-An-Invite/commits?author=vedantmgoyal2009" title="Documentation">📖</a> <a href="#content-vedantmgoyal2009" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/d-coder111"><img src="https://avatars.githubusercontent.com/u/82580017?v=4?s=100" width="100px;" alt="d-coder111"/><br /><sub><b>d-coder111</b></sub></a><br /><a href="#content-d-coder111" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
