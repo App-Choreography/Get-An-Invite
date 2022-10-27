@@ -1,0 +1,15 @@
+on:
+  issues:
+    types: [labeled]
+jobs:
+  automate_invite:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Invite on label
+        uses: vj-abigo/invite-on-label@v1.2
+        with:
+          organization: App-Choreography
+          label: Organisation Invite! 📨
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          INVITE_TOKEN: ${{ secrets.INVITE_TOKEN }}
