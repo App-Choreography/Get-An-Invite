@@ -33,6 +33,7 @@
 | [Tran Nguyen Thuong Truong](https://github.com/thuongtruong1009) | Java, HTML, CSS, JS |
 | [Divya](https://github.com/d-coder111) | Python,Java |
 | [phuocantd](https://github.com/phuocantd) | Javascript |
+| [toptalentdev](https://github.com/toptalentdev) | Javascript | TypeScript | React | Vue | Node.js
 
 
 ## Contributors ✨
