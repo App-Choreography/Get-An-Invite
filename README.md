@@ -1,6 +1,6 @@
 ###### Join our org [Here ✉️](https://github.com/App-Choreography/Get-An-Invite/issues/new?assignees=CodingSpecies&labels=Organisation+Invite%21+%F0%9F%93%A8&template=please-can-i-join-this-organisation------.md&title=Please+Can+I+Join+This+Organisation%3F+%F0%9F%A5%BA%F0%9F%99%8F") | [Our Website 🌐](https://app-choreography.github.io/) | [Repositories 📚](https://github.com/orgs/App-Choreography/repositories)
 
-# Want to join our organisation?
+# Want to join our organisation? 🏢
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -16,7 +16,7 @@
 - [x] Fill out the issue. 
 - [x] Go back to your PR, and put the number, which your issue is at.
 
-# Now, just wait!
+# Now, just wait! ⏰
 
 > If you are already part of our organisation, you don't have to do anything! If you still want to join in, feel free!
 
