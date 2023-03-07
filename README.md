@@ -33,6 +33,7 @@
 | [Tran Nguyen Thuong Truong](https://github.com/thuongtruong1009) | Java, HTML, CSS, JS |
 | [Divya](https://github.com/d-coder111) | Python,Java |
 | [phuocantd](https://github.com/phuocantd) | Javascript |
+| [Ebenezer R.](https://github.com/Itsfoss0)| Python, C, Dart, Bash|
 
 
 ## Contributors ✨
