@@ -2,7 +2,7 @@
 
 # Want to join our organisation? 🏢
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
@@ -52,6 +52,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://bittu.eu.org"><img src="https://avatars.githubusercontent.com/u/83997633?v=4?s=100" width="100px;" alt="Vedant"/><br /><sub><b>Vedant</b></sub></a><br /><a href="https://github.com/App-Choreography/Get-An-Invite/commits?author=vedantmgoyal2009" title="Documentation">📖</a> <a href="#content-vedantmgoyal2009" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/d-coder111"><img src="https://avatars.githubusercontent.com/u/82580017?v=4?s=100" width="100px;" alt="d-coder111"/><br /><sub><b>d-coder111</b></sub></a><br /><a href="#content-d-coder111" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Rudra2198"><img src="https://avatars.githubusercontent.com/u/89503697?v=4?s=100" width="100px;" alt="Rudra Patel"/><br /><sub><b>Rudra Patel</b></sub></a><br /><a href="#content-Rudra2198" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Itsfoss0"><img src="https://avatars.githubusercontent.com/u/105123601?v=4?s=100" width="100px;" alt="Ebenezer R. "/><br /><sub><b>Ebenezer R. </b></sub></a><br /><a href="#content-Itsfoss0" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
