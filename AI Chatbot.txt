@@ -1,0 +1,20 @@
+/////////////Chatbot///////////////
+Hello sir, thanks for your job posting.
+As a professional AI/NLP engineer, I have much experience in AI chatbot field.
+In the past, I developed various kinds of AI chatbot related to Gen AI and RAG.
+Especially, I specializes in RAG system development using Langchain or LlamaIndex based on vector database and embedding methodology.
+Recently, I developed AI agent with Langchain, several LLMs like OpenAI, Anthropic and Llama2, and Pinecone.
+You can check my experience and ability in my profile.
+https://primedicalja.com/
+Please contact me for a discussion.
+I look forward to your response.
+Thanks again.
+
+Hello.
+As a professional AI/NLP system developer, I'm interested in your project.
+In the past, I have developed various kinds of RAG system, AI agent and AI chatbot using GPT, Langchain and vector database.
+Also, I'm very experienced in latest AI/NLP technologies like Embedding, Function calling, fine-turning and so on.
+You can check it in my profile.
+Please contact me for a discussion.
+During a meeting, I'll share my previous project.
+Thank you.
