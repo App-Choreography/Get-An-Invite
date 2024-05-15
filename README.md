@@ -16,7 +16,7 @@
 - [x] Fill out the issue. 
 - [x] Go back to your PR, and put the number, which your issue is at.
 
-# Now, just wait! ⏰
+## Now, just wait! ⏰
 
 > If you are already part of our organisation, you don't have to do anything! If you still want to join in, feel free!
 
