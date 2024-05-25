@@ -68,6 +68,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "max-ray001",
+      "name": "⭐Max-Ray⭐",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142807911?v=4",
+      "profile": "https://github.com/max-ray001",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -76,5 +85,6 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,
-  "commitConvention": "angular"
+  "commitConvention": "angular",
+  "commitType": "docs"
 }
