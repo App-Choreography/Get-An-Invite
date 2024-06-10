@@ -56,6 +56,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/max-ray001"><img src="https://avatars.githubusercontent.com/u/142807911?v=4?s=100" width="100px;" alt="⭐Max-Ray⭐"/><br /><sub><b>⭐Max-Ray⭐</b></sub></a><br /><a href="#content-max-ray001" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/xfactor-toml"><img src="https://avatars.githubusercontent.com/u/154992305?v=4" width="100px;" alt="xfactor-toml"/><br /><sub><b>xfactor-toml</b></sub></a><br /><a href="#content-xfactor-toml" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
