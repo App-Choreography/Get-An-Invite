@@ -32,6 +32,7 @@
 | [Rohit Tewari](https://github.com/rtewari056) | JavaScript |
 | [Tran Nguyen Thuong Truong](https://github.com/thuongtruong1009) | Java, HTML, CSS, JS |
 | [Divya](https://github.com/d-coder111) | Python,Java |
+| [SUDEEP M SHETTY](https://github.com/SUDEEP-M-SHETTY) | HTML, CSS, Javascript, Python |
 | [phuocantd](https://github.com/phuocantd) | Javascript |
 | [Ebenezer R.](https://github.com/Itsfoss0)| Python, C, Dart, Bash|
 
@@ -56,6 +57,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/max-ray001"><img src="https://avatars.githubusercontent.com/u/142807911?v=4?s=100" width="100px;" alt="⭐Max-Ray⭐"/><br /><sub><b>⭐Max-Ray⭐</b></sub></a><br /><a href="#content-max-ray001" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/SUDEEP-M-SHETTY"><img src="https://avatars.githubusercontent.com/u/86517389?v=4?s=100" width="100px;" alt="SUDEEP M SHETTY"/><br /><sub><b>SUDEEP M SHETTY</b></sub></a><br /><a href="#content-SUDEEP-M-SHETTY" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
