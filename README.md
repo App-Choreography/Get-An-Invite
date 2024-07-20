@@ -34,7 +34,7 @@
 | [Divya](https://github.com/d-coder111) | Python,Java |
 | [phuocantd](https://github.com/phuocantd) | Javascript |
 | [Ebenezer R.](https://github.com/Itsfoss0)| Python, C, Dart, Bash|
-| [Mubashir Iqbal](https://github.com/Mubshr07) AI Researcher | System Engineer | Softwares and Websites Developer | Python, Qt C++, PHP, MySQL, Front-end Technologies | Thank You
+| [Mubashir Iqbal](https://github.com/Mubshr07) AI Researcher | System Engineer | Softwares and Websites Developer | Python, Qt C++, PHP, MySQL, Front-end Technologies.
 
 
 ## Contributors ✨
@@ -57,8 +57,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/max-ray001"><img src="https://avatars.githubusercontent.com/u/142807911?v=4?s=100" width="100px;" alt="⭐Max-Ray⭐"/><br /><sub><b>⭐Max-Ray⭐</b></sub></a><br /><a href="#content-max-ray001" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Mubshr07"><img src="https://avatars.githubusercontent.com/u/34352213?v=4?s=100" width="100px;" alt="Mubashir Iqbal"/><br /><sub><b>Mubashir Iqbal</b></sub></a><br /><a href="mailto:mubshr07@gmail.com" title="Content">🖋</a></td>
-
     </tr>
   </tbody>
 </table>
