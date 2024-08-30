@@ -27,6 +27,7 @@
 | Name | What Computing Language Are You The Best At? | 
 | ---- | -------------------------------------------- |
 | `[Github Name](Link_to_Profile)`    | `HTML`        |
+| [NFTknight](https://github.com/NFTknight) | JavaScript, React, NodeJS |
 | [vedantmgoyal2009](https://github.com/vedantmgoyal2009) | Java, PowerShell, NodeJS |
 | [Molese](https://github.com/m0lese) | Rust          |
 | [Rohit Tewari](https://github.com/rtewari056) | JavaScript |
@@ -47,6 +48,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/NFTknight"><img src="https://avatars.githubusercontent.com/u/117064821?v=4?s=100" width="100px;" alt="NFT Knight"/><br /><sub><b>Rohit Tewari</b></sub></a><br /><a href="#content-rtewari056" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://molese.me"><img src="https://avatars.githubusercontent.com/u/86180257?v=4?s=100" width="100px;" alt="Molese"/><br /><sub><b>Molese</b></sub></a><br /><a href="#content-m0lese" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/rtewari056"><img src="https://avatars.githubusercontent.com/u/75976169?v=4?s=100" width="100px;" alt="Rohit Tewari"/><br /><sub><b>Rohit Tewari</b></sub></a><br /><a href="#content-rtewari056" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://thuongtruonginc.wixsite.com/portfolio"><img src="https://avatars.githubusercontent.com/u/71834167?v=4?s=100" width="100px;" alt="Tran Nguyen Thuong Truong"/><br /><sub><b>Tran Nguyen Thuong Truong</b></sub></a><br /><a href="#content-thuongtruong1009" title="Content">🖋</a></td>
