@@ -31,6 +31,7 @@
 | [Molese](https://github.com/m0lese) | Rust          |
 | [Rohit Tewari](https://github.com/rtewari056) | JavaScript |
 | [Tran Nguyen Thuong Truong](https://github.com/thuongtruong1009) | Java, HTML, CSS, JS |
+| [Baris AL](https://github.com/MutanPlex) | HTML, CSS, JS, NodeJS, PHP |
 | [Divya](https://github.com/d-coder111) | Python,Java |
 | [phuocantd](https://github.com/phuocantd) | Javascript |
 | [Ebenezer R.](https://github.com/Itsfoss0)| Python, C, Dart, Bash|
