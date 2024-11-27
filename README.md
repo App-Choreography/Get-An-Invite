@@ -8,7 +8,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 
 ## Follow these steps:
-  
 - [x] Star this repositary, so you don't lose it! 😅
 - [x] Fork this repo, to add your changes! 📝
 - [x] After adding your changes, make a pull request! 
