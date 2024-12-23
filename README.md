@@ -36,7 +36,7 @@
 | [phuocantd](https://github.com/phuocantd) | Javascript |
 | [Ebenezer R.](https://github.com/Itsfoss0)| Python, C, Dart, Bash|
 | [Mubashir Iqbal](https://github.com/Mubshr07) | AI Researcher, System Engineer, Softwares and Websites Developer,
-
+| [Dmitry Selikhov](https://github.com/idimetrix)| React, Next, Vue, Nuxt, JavaScript, TypeScript, Node|
 
 ## Contributors ✨
 
