@@ -62,6 +62,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://mubashiriqbal07.wordpress.com/"><img src="https://avatars.githubusercontent.com/u/34352213?v=4?s=100" width="100px;" alt="Mubashir Iqbal"/><br /><sub><b>Mubashir Iqbal</b></sub></a><br /><a href="#content-Mubshr07" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/conka8"><img src="https://avatars.githubusercontent.com/u/153589883?v=4?s=100" width="100px;" alt="Conka@rust"/><br /><sub><b>Conka@rust</b></sub></a><br /><a href="#content-conka8" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/joebertcerezo"><img src="https://avatars.githubusercontent.com/u/104471296?v=4?s=100" width="100px;" alt="Joebert Cerezo"/><br /><sub><b>Joebert Cerezo</b></sub></a><br /><a href="#content-joebertcerezo" title="Content">🖋</a></td>
+       <td align="center" valign="top" width="14.28%"><a href="https://github.com/topsecretagent007"><img src="https://github.com/user-attachments/assets/f50808c9-2e1c-4dc3-a3d5-75ae970f9b85" width="100px;" alt="Lendon Bracewell"/><br /><sub><b>Lendon Bracewell</b></sub></a><br /><a href="#content-topsecretagent007" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
