@@ -104,6 +104,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "mmvonnseek",
+      "name": "Max Muller",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89359847?v=4",
+      "profile": "https://github.com/mmvonnseek",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
