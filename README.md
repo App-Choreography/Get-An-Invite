@@ -37,7 +37,7 @@
 | [Ebenezer R.](https://github.com/Itsfoss0)| Python, C, Dart, Bash|
 | [Mubashir Iqbal](https://github.com/Mubshr07) | AI Researcher, System Engineer, Softwares and Websites Developer |
 | [Joebert Cerezo](https://github.com/joebertcerezo) | Nuxt, Scala, Play Framework, Node |
-
+| [0xMrIncredible](https://github.com/0xMrIncredible) | Rust, Python, Solidity, NodeJS, React, Next, Express, Nest, Full Stack & AI & Blockchain Engineer |
 
 ## Contributors ✨
 
@@ -62,6 +62,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://mubashiriqbal07.wordpress.com/"><img src="https://avatars.githubusercontent.com/u/34352213?v=4?s=100" width="100px;" alt="Mubashir Iqbal"/><br /><sub><b>Mubashir Iqbal</b></sub></a><br /><a href="#content-Mubshr07" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/conka8"><img src="https://avatars.githubusercontent.com/u/153589883?v=4?s=100" width="100px;" alt="Conka@rust"/><br /><sub><b>Conka@rust</b></sub></a><br /><a href="#content-conka8" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/joebertcerezo"><img src="https://avatars.githubusercontent.com/u/104471296?v=4?s=100" width="100px;" alt="Joebert Cerezo"/><br /><sub><b>Joebert Cerezo</b></sub></a><br /><a href="#content-joebertcerezo" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/joebertcerezo"><img src="https://avatars.githubusercontent.com/u/22418467?v=4&size=100" width="100px;" alt="0xMrIncredible"/><br /><sub><b>0xMrIncredible</b></sub></a><br /><a href="#content-0xMrIncredible" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
