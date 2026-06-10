@@ -12,9 +12,10 @@
 - [x] Star this repositary, so you don't lose it! 😅
 - [x] Fork this repo, to add your changes! 📝
 - [x] After adding your changes, make a pull request! 🦾
-- [x] Go to issues, and use our ready made template, asking to join the org!
+- [x] Go to issues, and use our ready made template, asking to join the org! 
 - [x] Fill out the issue. 
 - [x] Go back to your PR, and put the number, which your issue is at.
+<img width="498" height="498" alt="CongratsCongratulationsGIF" src="https://github.com/user-attachments/assets/ac5d91e4-935b-4f31-8d24-3517d242023b" />
 
 ## Now, just wait! ⏰
 
