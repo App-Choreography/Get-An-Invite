@@ -37,6 +37,7 @@
 | [Ebenezer R.](https://github.com/Itsfoss0)| Python, C, Dart, Bash|
 | [Mubashir Iqbal](https://github.com/Mubshr07) | AI Researcher, System Engineer, Softwares and Websites Developer |
 | [Joebert Cerezo](https://github.com/joebertcerezo) | Nuxt, Scala, Play Framework, Node |
+| [0xMrW](https://github.com/0xMrW) | Full Stack BlockchainEngineer: Rust, Solidity, Python, React, Node... |
 
 
 ## Contributors ✨
