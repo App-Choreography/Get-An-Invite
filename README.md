@@ -27,6 +27,7 @@
 | Name | What Computing Language Are You The Best At? | 
 | ---- | -------------------------------------------- |
 | `[Github Name](Link_to_Profile)`    | `HTML`        |
+| [Aaqibhafeez Khan](https://github.com/Aaqibhafeezkhan) | Java, Spring Boot, React, Next.js, Angular, TypeScript, JavaScript, Python, Azure, AI/LLM |
 | [vedantmgoyal2009](https://github.com/vedantmgoyal2009) | Java, PowerShell, NodeJS |
 | [Molese](https://github.com/m0lese) | Rust          |
 | [Rohit Tewari](https://github.com/rtewari056) | JavaScript |
